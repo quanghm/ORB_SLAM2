@@ -22,3 +22,7 @@ build/
 *~
 lib/
 
+# build stuff
+xcode/**
+build/**
+**/.DS_Store
